@@ -141,6 +141,7 @@ CREATE TABLE `tbl_booking` (
 --
 -- Dumping data for table `tbl_booking`
 --
+
 LOCK TABLES `tbl_booking` WRITE;
 /*!40000 ALTER TABLE `tbl_booking` DISABLE KEYS */;
 /*!40000 ALTER TABLE `tbl_booking` ENABLE KEYS */;
